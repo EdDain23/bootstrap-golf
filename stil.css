@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+img{
+    width: 320px  !important;
+    height: 200px !important;
+    border-radius: 10px;
+}
+.container{
+ border: 10px;
+ border-radius: 12px;
+ border-color: rgb(241, 41, 6);
+}
